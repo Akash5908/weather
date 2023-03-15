@@ -201,7 +201,7 @@ body {
     /* flex:0, 0,%;  */
   }
   .widget .weatherInfo {
-    flex: 0 0 66%;
+    flex: 0 0 60%;
   }
   .searchButton {
     height: 40px;
