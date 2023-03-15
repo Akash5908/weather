@@ -218,7 +218,7 @@ body {
     margin-top: -65px;
   }
  .description {
-    position: fixed;
+    position: absolute;
     right: -306px;
 }
   .span {
