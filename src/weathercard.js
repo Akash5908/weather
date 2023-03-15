@@ -49,6 +49,7 @@ const Weathercard = ({ tempInfo }) => {
           <i className={`wi ${weatherState}`}></i>
         </div>
         <div className="weatherInfo">
+         <div className="date"> {new Date().toLocaleString()}</div>
           <div className="temperature">
             <span>{temp}&deg;</span>
           </div>
@@ -59,7 +60,7 @@ const Weathercard = ({ tempInfo }) => {
             </div>
           </div>
         </div>
-        <div className="date"> {new Date().toLocaleString()}</div>
+       
 
         {/* our 4 column section */}
         <div className="extra-temp">
