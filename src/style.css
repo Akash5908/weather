@@ -191,3 +191,31 @@ body {
   left: 50%;
   transform: translate(-50%, -50%);
 } */
+@media (max-width: 998px) {
+  .searchTerm {
+    width: 40%;
+    padding: 20px;
+  }
+  .widget {
+    width: 380px;
+    /* flex:0, 0,%;  */
+  }
+  .widget .weatherInfo {
+    flex: 0 0 66%;
+  }
+  .searchButton {
+    height: 40px;
+  }
+
+  .description {
+    margin-top: 74px;
+    margin-left: -127px;
+  }
+  .temperature {
+    margin-left: 11px;
+    margin-top: -65px;
+  }
+  .span {
+    margin-left: 88px;
+  }
+}
