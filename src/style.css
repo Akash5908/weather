@@ -219,16 +219,12 @@ body {
     margin-left: 11px;
     margin-top: -65px;
   }
-    .place {
-    position: absolute;
-    left: 350px;
-    top: 550px;
+ .description {
+    margin-top: 74px;
+    margin-left: -127px;
 }
-.weatherCondition {
-  position: absolute;
-  left: 288px;
-  top: 506px;
-}
+
+
   .span {
     margin-left: 88px;
   }
