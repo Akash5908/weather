@@ -50,6 +50,10 @@ body {
   align-items: center;
   justify-content: space-around;
   font-size: 100px;
+
+}
+.widget .weatherInfo {
+  width: 650px;
 }
 
 .widget .weatherInfo {
