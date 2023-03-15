@@ -27,7 +27,6 @@ body {
   display: grid;
   place-items: center;
 }
-
 .widget {
   display: flex;
   height: 400px;
