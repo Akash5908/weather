@@ -191,7 +191,7 @@ body {
   left: 50%;
   transform: translate(-50%, -50%);
 } */
-@media (max-width: 998px) {
+@media (max-width: 768px) {
   .searchTerm {
     width: 40%;
     padding: 20px;
